@@ -1,4 +1,6 @@
-# Welcome to your Expo app 👋
+# Miranda: celebrating albums' anniversaries
+
+Hello world! Miranda is an app aimed to anyone who wants to discover new songs, showing them musical anniversaries everyday!
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
